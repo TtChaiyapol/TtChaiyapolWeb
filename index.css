@@ -1,0 +1,44 @@
+.container-fluid .row {
+    height: 100vh;
+}
+
+.text_aboutme {
+    color: white;
+    font-size: 20px;
+}
+
+.container_aboutme {
+    background-image: url("bg.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.content_aboutme {
+    padding-top: 35vh;
+    width: 40vw;
+
+}
+
+.heading_aboutme {
+    color: rgb(255, 255, 255);
+}
+
+.shadow_box {
+    background-color: rgb(0, 0, 0, 0.5);
+    height: 100vh;
+}
+
+.col-md-8 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.container_myself {
+    background-color: rgb(255, 178, 62);
+    height: 100vh;
+
+}
